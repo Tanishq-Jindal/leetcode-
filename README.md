@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Tanishq-Jindal/leetcode-/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Tanishq-Jindal/leetcode-/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Tanishq-Jindal/leetcode-/tree/master/0070-climbing-stairs) |
+| [0412-fizz-buzz](https://github.com/Tanishq-Jindal/leetcode-/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Tanishq-Jindal/leetcode-/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Tanishq-Jindal/leetcode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/Tanishq-Jindal/leetcode-/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Tanishq-Jindal/leetcode-/tree/master/0125-valid-palindrome) |
+| [0412-fizz-buzz](https://github.com/Tanishq-Jindal/leetcode-/tree/master/0412-fizz-buzz) |
 | [0771-jewels-and-stones](https://github.com/Tanishq-Jindal/leetcode-/tree/master/0771-jewels-and-stones) |
 ## Array
 |  |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Tanishq-Jindal/leetcode-/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/Tanishq-Jindal/leetcode-/tree/master/0412-fizz-buzz) |
 ## Tree
 |  |
 | ------- |
