@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Tanishq-Jindal/leetcode-/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Tanishq-Jindal/leetcode-/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Tanishq-Jindal/leetcode-/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/Tanishq-Jindal/leetcode-/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Tanishq-Jindal/leetcode-/tree/master/0704-binary-search) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Tanishq-Jindal/leetcode-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1672-richest-customer-wealth](https://github.com/Tanishq-Jindal/leetcode-/tree/master/1672-richest-customer-wealth) |
