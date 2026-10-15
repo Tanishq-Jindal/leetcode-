@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Tanishq-Jindal/leetcode-/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Tanishq-Jindal/leetcode-/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Tanishq-Jindal/leetcode-/tree/master/0704-binary-search) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Tanishq-Jindal/leetcode-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1672-richest-customer-wealth](https://github.com/Tanishq-Jindal/leetcode-/tree/master/1672-richest-customer-wealth) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tanishq-Jindal/leetcode-/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Two Pointers
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Tanishq-Jindal/leetcode-/tree/master/0219-contains-duplicate-ii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Tanishq-Jindal/leetcode-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Matrix
 |  |
 | ------- |
@@ -189,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tanishq-Jindal/leetcode-/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Tanishq-Jindal/leetcode-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
