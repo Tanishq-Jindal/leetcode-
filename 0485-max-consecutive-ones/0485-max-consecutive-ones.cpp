@@ -4,20 +4,33 @@ public:
         int n = nums.size();
         int start = 0;
         int end = 0;
-        int ans = 0;
+        int zeroes = 0;
+        int longest = 0;
 
-        while(end<n){
-            if(nums[end]==1){
-                end++;
+        while (true) {
+            if (zeroes <= 0) {
+                if (end < n) {
+                    if (nums[end] == 0) {
+                        zeroes += 1;
+                    }
+                    end++;
+                } else {
+                    break;
+                }
+            } else {
+                if (start < n) {
+                    if (nums[start] == 0) {
+                        zeroes -= 1;
+                    }
+                    start++;
+                } else {
+                    break;
+                }
             }
-            else{
-                ans = max(ans, end-start);
-                end++;
-                start = end;
-            }
+
+            longest = max(longest, end - start - zeroes);
         }
-        ans = max(ans, end-start);
 
-        return ans;
+        return longest;
     }
 };
