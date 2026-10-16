@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Tanishq-Jindal/leetcode-/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Tanishq-Jindal/leetcode-/tree/master/0704-binary-search) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Tanishq-Jindal/leetcode-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Tanishq-Jindal/leetcode-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1672-richest-customer-wealth](https://github.com/Tanishq-Jindal/leetcode-/tree/master/1672-richest-customer-wealth) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tanishq-Jindal/leetcode-/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Two Pointers
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Tanishq-Jindal/leetcode-/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/Tanishq-Jindal/leetcode-/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Tanishq-Jindal/leetcode-/tree/master/0509-fibonacci-number) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Tanishq-Jindal/leetcode-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Manacher
 |  |
 | ------- |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Tanishq-Jindal/leetcode-/tree/master/0219-contains-duplicate-ii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Tanishq-Jindal/leetcode-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Tanishq-Jindal/leetcode-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Matrix
 |  |
 | ------- |
