@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Tanishq-Jindal/leetcode-/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Tanishq-Jindal/leetcode-/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Tanishq-Jindal/leetcode-/tree/master/0485-max-consecutive-ones) |
+| [0643-maximum-average-subarray-i](https://github.com/Tanishq-Jindal/leetcode-/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Tanishq-Jindal/leetcode-/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Tanishq-Jindal/leetcode-/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Tanishq-Jindal/leetcode-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Tanishq-Jindal/leetcode-/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/Tanishq-Jindal/leetcode-/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/Tanishq-Jindal/leetcode-/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Tanishq-Jindal/leetcode-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Tanishq-Jindal/leetcode-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
