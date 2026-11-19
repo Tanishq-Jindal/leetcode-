@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/Tanishq-Jindal/leetcode-/tree/master/1672-richest-customer-wealth) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tanishq-Jindal/leetcode-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Tanishq-Jindal/leetcode-/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Tanishq-Jindal/leetcode-/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Tanishq-Jindal/leetcode-/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Tanishq-Jindal/leetcode-/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Two Pointers
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Tanishq-Jindal/leetcode-/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/Tanishq-Jindal/leetcode-/tree/master/0977-squares-of-a-sorted-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Tanishq-Jindal/leetcode-/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Tanishq-Jindal/leetcode-/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -263,4 +265,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Tanishq-Jindal/leetcode-/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Greedy
+|  |
+| ------- |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Tanishq-Jindal/leetcode-/tree/master/2567-minimum-score-by-changing-two-elements) |
 <!---LeetCode Topics End-->
