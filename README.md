@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Tanishq-Jindal/leetcode-/tree/master/0412-fizz-buzz) |
 | [0771-jewels-and-stones](https://github.com/Tanishq-Jindal/leetcode-/tree/master/0771-jewels-and-stones) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Tanishq-Jindal/leetcode-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Tanishq-Jindal/leetcode-/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Tanishq-Jindal/leetcode-/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Array
 |  |
